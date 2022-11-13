@@ -1,0 +1,22 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URI")
+}
+
+model AshKetchup {
+  id                       String  @id @default(cuid())
+  Name                     String?
+  HouseNo                  String?
+  AssemblyConstituencyName String?
+  PartNo                   Int?
+  SectionNo                Int?
+  FatherName               String?
+  MotherName               String?
+  HusbandName              String?
+  Age                      Int?
+  Sex                      String?
+}
