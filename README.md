@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dp6tqc0bs/image/upload/v1668407152/Blue_Yellow_Futuristic_Virtual_Technology_Blog_Banner_h2f2uv.jpg" alt="Banner" height='340'/>
+<img src="https://res.cloudinary.com/dp6tqc0bs/image/upload/v1668407152/Blue_Yellow_Futuristic_Virtual_Technology_Blog_Banner_h2f2uv.jpg" alt="Banner" width='1000'/>
 
 Team G-PKTSS’s idea of generating family trees from electoral rolls available, is broken down in the following.<br><br>
 
