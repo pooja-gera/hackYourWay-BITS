@@ -1,3 +1,5 @@
+<img src="https://res.cloudinary.com/dp6tqc0bs/image/upload/v1668407152/Blue_Yellow_Futuristic_Virtual_Technology_Blog_Banner_h2f2uv.jpg" alt="Banner" height='340' width='1000'/>
+
 Team G-PKTSS’s idea of generating family trees from electoral rolls available, is broken down in the following.<br><br>
 
 We have generated scripts specific to different states. We can easily generate more but in the interest of time, we were only able to generate the same for 14 - <b>Assam, Chhattisgarh, Delhi, Goa, Haryana, JK, Jharkhand, Manipur, Meghalaya, Mizoram, Nagaland, Punjab, Sikkim, Telangana</b>. These scripts provide us with the necessary PDFs of all parts of all assembly constituencies of these <b>14 aforementioned states</b>. <br><br>
